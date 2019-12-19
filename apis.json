@@ -1,0 +1,82 @@
+{
+    "name": "DeviantArt",
+    "description": "Popular 24 Hours - Your spot for viewing some of the best pieces on DeviantArt. Be inspired by a huge range of artwork from artists around the world.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/180-deviantart.jpg",
+    "tags": [
+        "api provider",
+        "art",
+        "arts",
+        "forums",
+        "have api",
+        "marketplaces",
+        "social",
+        "uploads"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/deviantart\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DeviantArt",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/180-deviantart.jpg",
+            "humanURL": "http:\/\/www.deviantart.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/deviantart-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/www.deviantart.com\/api"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/hq.deviantart.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/backend.deviantart.com\/rss.xml?q=sort:pie+in:deviantart_inc\/deviantart_blog&type=news&offset=0"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/deviantart"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/deviantart"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.deviantart.com\/developers\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.deviantart.com\/developers\/"
+        },
+        {
+            "type": "Email",
+            "url": "developers@deviantart.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/deviantART"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/deviantART"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.deviantart.com"
+        }
+    ]
+}
